@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -------------
 | Comando | Descripción |
 
-[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=mabarrera&count_private=true&show_icons=true&hide_rank=false)](https://github.com/mabarrera)
+[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=mabarrera&count_private=false&show_icons=true&hide_rank=false)](https://github.com/mabarrera)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabarrera)](https://github.com/mabarrera)
