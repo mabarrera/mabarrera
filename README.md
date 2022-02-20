@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 ### GitHub Stats
 -------------
+| Comando | Descripción |
 
 [![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=mabarrera&count_private=true&show_icons=true&hide_rank=false)](https://github.com/mabarrera)
 
