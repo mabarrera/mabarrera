@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### GitHub Stats
 -------------
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabarrera)](https://github.com/mabarrera) | [![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=mabarrera&show_icons=true&hide_rank=true)](https://github.com/mabarrera) |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabarrera)](https://github.com/mabarrera) | [![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=mabarrera&show_icons=true&hide_rank=false)](https://github.com/mabarrera) |
 
 
 
